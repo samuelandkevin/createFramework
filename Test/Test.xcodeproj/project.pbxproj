@@ -522,6 +522,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C7F60DB32A423501F5315B0D /* Pods-TestBundle.debug.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = NO;
 				CURRENT_PROJECT_VERSION = 1;
@@ -549,6 +550,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6EF601D0ADE5065D05436668 /* Pods-TestBundle.release.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = NO;
 				CURRENT_PROJECT_VERSION = 1;
